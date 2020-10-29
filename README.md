@@ -1,7 +1,7 @@
 # Chat Messenger with video calling using Agora
 
 # Goal
-To create a messaging app using Firebase with video calling capability.
+To create a messaging app using Flutter and Firebase with video calling capability.
 
 # How it works?
 When initially launched, the app starts with a sign in screen with an option to toggle between signin and sign up, in case of a new user.
