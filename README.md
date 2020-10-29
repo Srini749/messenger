@@ -5,6 +5,7 @@ To create a messaging app using Firebase with video calling capability.
 
 # How it works?
 When initially launched, the app starts with a sign in screen with an option to toggle between signin and sign up, in case of a new user.
+
 ![Alt Text](https://media.giphy.com/media/GmCV7JrbQ8gdlDdNr3/giphy.gif)
 
 Once signed in, the home screen displays the different conversations with the user. On clicking, you're navigated to the actual chat screen where back and forth messging can take place.
